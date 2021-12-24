@@ -4,10 +4,11 @@
 }*/
 .card {
   margin: 100px 100px auto;
-  width: 700px;
+  width: 800px;
   height: 700px;
   border-style: double;
   border-radius: 25% 10%;
+  border-color: #d1aca5;
 }
 .header {
   height: 75px;
@@ -23,4 +24,8 @@
   margin: 0 auto;
   margin-top: 20px;
   width: 300px;
+}
+
+.content {
+  font-size: 18px;
 }
