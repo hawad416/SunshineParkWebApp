@@ -1,0 +1,26 @@
+/*:host {
+  display: flex;
+  justify-content: space-between;
+}*/
+.card {
+  margin: 100px 100px auto;
+  width: 700px;
+  height: 700px;
+  border-style: double;
+  border-radius: 25% 10%;
+}
+.header {
+  height: 75px;
+  margin-left: 80px;
+  margin-top: 15px;
+  border: none;
+}
+.card-header-title {
+  font-size: 30px;
+  font-weight: bold;
+}
+.card-image {
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 300px;
+}
